@@ -1,5 +1,5 @@
 baseURL: https://atrax.tech/
-languageCode: ru-ru
+defaultContentLanguage: ru
 title: Atrax Tech
 theme: hugo-book
 #copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
